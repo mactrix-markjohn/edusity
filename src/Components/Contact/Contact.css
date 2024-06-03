@@ -52,4 +52,11 @@
 
 /*--------- media query -------*/
 
-@media (max-width: 800px){}
+@media (max-width: 800px){
+    .contact{
+        display: block;
+    }
+    .contact-col{
+        padding: 20px;
+    }
+}
